@@ -4,6 +4,7 @@ class Pagination extends Component {
     prevPage: "page-link diabled"
   };
   render() {
+      console.log("hi")
     return (
       <nav aria-label="...">
         <ul className="pagination">
